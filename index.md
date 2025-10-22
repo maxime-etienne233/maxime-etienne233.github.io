@@ -3,18 +3,30 @@ layout: home
 title: Atelier Vélo Maxime
 ---
 
-# 🚲 Bienvenue à l'Atelier Vélo Maxime
+<section class="hero">
+  <div class="hero-content">
+    <h1>🚲 Atelier Vélo Maxime</h1>
+    <p>Réparation, entretien et conseils personnalisés pour tous types de vélos à <strong>Toulouse</strong>.</p>
+    <a href="/prestations" class="btn-primary">Découvrir nos prestations</a>
+  </div>
+</section>
 
-Spécialiste de la **réparation et de l’entretien de vélos à Toulouse**, je vous accueille sur rendez-vous pour tous types de vélos : route, VTT, urbains et électriques.
+<section class="features">
+  <div class="feature">
+    <h3>🛠️ Réparations toutes marques</h3>
+    <p>Freins, transmission, roues, entretien complet ou diagnostic électrique.</p>
+  </div>
+  <div class="feature">
+    <h3>⚡ Diagnostic vélo électrique</h3>
+    <p>Entretien et remplacement de composants pour VAE.</p>
+  </div>
+  <div class="feature">
+    <h3>💬 Conseils et accompagnement</h3>
+    <p>Un atelier de proximité pour garder votre vélo en parfait état.</p>
+  </div>
+</section>
 
-🛠️ Services rapides et personnalisés  
-💬 Conseils d’entretien gratuits  
-📍 Atelier situé à Toulouse
-
-[Voir nos prestations →](./prestations)
-
----
-
-<div class="banner">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Bicycle_Maintenance_%28Unsplash%29.jpg" alt="Atelier de réparation de vélos" />
-</div>
+<section class="cta">
+  <p>Besoin d’un devis ou d’un entretien ?</p>
+  <a href="/contact" class="btn-secondary">Contactez-nous</a>
+</section>
