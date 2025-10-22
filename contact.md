@@ -12,8 +12,6 @@ Toulouse, France
 📧 **Email :** ton.email@example.com  
 📱 **Téléphone :** 06 12 34 56 78  
 
-💬 N’hésite pas à me contacter pour un devis ou une prise de rendez-vous.
-
 ---
 
 ## 🕐 Horaires
@@ -26,7 +24,7 @@ Toulouse, France
 
 ---
 
-## 📍 Localisation
-
-*(Ajoute ici un lien Google Maps si tu veux)*  
-[Voir sur Google Maps](https://www.google.com/maps)
+<section class="cta">
+  <p>Envie de prendre rendez-vous ?</p>
+  <a href="mailto:ton.email@example.com" class="btn-primary">Envoyer un message</a>
+</section>
