@@ -1,5 +1,16 @@
-title: Mon site Jekyll
-description: Mon site personnel hébergé sur GitHub Pages
+title: Atelier Vélo Maxime
+description: Réparation et entretien de vélos à Toulouse
 theme: minima
+
+# Pages affichées dans le menu
+header_pages:
+  - prestations.md
+  - tarifs.md
+  - contact.md
+
 author: Maxime
-email: maxime.etienne233@gmail.com
+email: ton.email@example.com
+
+# Lien vers ta feuille de style personnalisée
+include:
+  - assets
