@@ -2,7 +2,6 @@ title: Atelier Vélo Maxime
 description: Réparation et entretien de vélos à Toulouse
 theme: minima
 
-# Pages affichées dans le menu
 header_pages:
   - prestations.md
   - tarifs.md
@@ -11,6 +10,6 @@ header_pages:
 author: Maxime
 email: ton.email@example.com
 
-# Lien vers ta feuille de style personnalisée
+# Pour inclure ton dossier CSS
 include:
   - assets
